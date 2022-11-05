@@ -1,5 +1,8 @@
 # Myopia Clusters
 
+https://eyewiki.aao.org/File:Diagram-myopia.jpg![image](https://user-images.githubusercontent.com/107436951/200131296-d7da750d-b981-4a0c-bb66-c00d5ad48499.png)
+
+
 In this assignment, you’ll apply what you learned about unsupervised learning by fitting data to a model and using clustering algorithms to place data into groups. Then, you’ll create a visualization that shares your findings. 
 
 ## Background
