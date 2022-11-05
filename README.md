@@ -1,8 +1,6 @@
 <h1 align="center"> Myopia Clusters</h1>
 
-<p align="center">
-   ![Diagram-myopia](https://user-images.githubusercontent.com/107436951/200131482-a555f209-2476-42f4-92b7-cd8864af3f11.jpg)
-</p>
+![Diagram-myopia](https://user-images.githubusercontent.com/107436951/200131524-c7e60f73-41c8-4d82-8c9e-4f5682598801.jpg)
 
 In this assignment, you’ll apply what you learned about unsupervised learning by fitting data to a model and using clustering algorithms to place data into groups. Then, you’ll create a visualization that shares your findings. 
 
